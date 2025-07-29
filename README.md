@@ -1,5 +1,5 @@
 # E-Commerce-Sales-analysis-for-Data-Driven-Making
-# E-Commerce Sales Data Cleaning & Analysis (2019–2024)
+# 🛍️ E-Commerce Sales Data Cleaning & Analysis (2019–2024)
 
 This project involves cleaning, exploring, and analyzing a real-world Amazon sales dataset spanning six years (2019–2024). The goal is to extract key business insights from structured e-commerce transaction data.
 
